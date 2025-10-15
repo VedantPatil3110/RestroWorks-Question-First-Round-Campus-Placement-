@@ -1,4 +1,4 @@
-Algorithm & Data Structure Solutions
+*Algorithm & Data Structure Solutions* 🤓🤓
 
 This repository contains solutions to several popular algorithm and data structure problems, implemented in C++. Each problem includes a brief description, example inputs and outputs, and the corresponding code solution.
 
